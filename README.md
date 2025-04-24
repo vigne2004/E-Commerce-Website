@@ -1,4 +1,4 @@
-In this project, let's build a **Nxt Trendz - Specific Product Details** app by applying the concepts I have learned till now.
+In this project, a **E-Commerce Web Application** app by applying the concepts I have learned till now.
 
 ### Refer to the image below:
 
